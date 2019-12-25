@@ -1,6 +1,6 @@
 #whatsapp automation
 # Here, with the help of python code we will write text- messages to our friends or other members in whatsapp
-# Here, User has scan QR-Code of their whatsapp web  
+# Here, User has to scan QR-Code of their whatsapp web  
 from selenium import webdriver
 
 driver = webdriver.Chrome('D:/chromedriver/chromedriver.exe')
